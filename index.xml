@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>https://lidaxian121.github.io/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 lidaxian</copyright>
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lidaxian121.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog</title>
+      <link>https://lidaxian121.github.io/posts/hello/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lidaxian121.github.io/posts/hello/</guid>
+      <description>This is my first blog on my site</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://lidaxian121.github.io/posts/hello/feature-sea-from-window.jpg" />
+    </item>
+    
+  </channel>
+</rss>

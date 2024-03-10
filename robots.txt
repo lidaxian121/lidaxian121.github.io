@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lidaxian121.github.io/sitemap.xml
